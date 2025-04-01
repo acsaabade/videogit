@@ -6,6 +6,7 @@ public class HelloWord {
 
 		System.out.println("HelloWord");
 		System.out.println("GitHub");
+		System.out.println("Teste");
 	}
 
 }
